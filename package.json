@@ -1,5 +1,5 @@
 {
-	"name": "face-recognition-frontend",
+	"name": "face-detection-frontend",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
@@ -17,7 +17,7 @@
 		"tachyons": "^4.12.0"
 	},
 	"scripts": {
-    	"start": "serve -s build",
+		"start": "serve -s build",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject"
