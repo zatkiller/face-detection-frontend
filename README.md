@@ -1,5 +1,9 @@
-Face Detection fullstack web app. This is the front end portion
+### Face Detection 
 
-Built using: React, Express, Node and  PostgreSQL
+Fullstack web app Front-End repository
 
-Implemented Clarifai Face Detection model.
+Built using: React, Express, Node and PostgreSQL
+Implemented Clarifai Face Detection model for face detection in images
+
+Link to Frontend repository:
+https://github.com/zatkiller/face-detection-API
